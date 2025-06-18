@@ -11,6 +11,7 @@ black = "*"
 langchain-openai = "*"
 python-dotenv = "*"
 langchain-ollama = "*"
+tweepy = "*"
 
 [dev-packages]
 
